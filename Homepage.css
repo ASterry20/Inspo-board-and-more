@@ -1,0 +1,31 @@
+body{
+    background-image: url('homescreen background.jpeg');
+    background-position: left;
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
+#title{
+color: sandybrown;
+text-align: center;
+text-decoration-line: underline;
+font-family: cursive;
+margin-top: 5%;
+}
+
+#button1{
+    background-image:url("nails20.jpeg");
+    background-position:center;
+    background-repeat:cover;
+    margin-top:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px black solid;
+    color:indigo;
+    width: 200px;
+    height:210px;
+}
+
+#border{
+    border: 1px black solid;
+    text-shadow: 2px 1px 0 #000, 2px 1px 0 #000;
+}

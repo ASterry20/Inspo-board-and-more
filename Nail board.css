@@ -1,0 +1,28 @@
+body{
+    background-image:url("✨Frasier\ Sterling1✨.jpeg");
+    background-size:cover;
+}
+
+.p1{
+font-style:initial;
+font-size: 35px;
+font-weight: 400;
+text-shadow: 2px -1px #f0d4e7, 2px -1px #f0d4e7, 2px -1px #f0d4e7;
+}
+
+#dramatize{
+    font-family: Arial, sans-serif;
+    font-style: oblique;
+    text-decoration:line-through;
+}
+
+#pptb{
+    background-image: url("pptb.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 3px black solid;
+    margin-top: 50px;
+    width: 150px;
+    height: 160px;
+}
