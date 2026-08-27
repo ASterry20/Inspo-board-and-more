@@ -6,8 +6,8 @@ body{
 }
 
 #title{
-color: aquamarine;
-text-shadow: 2px 1px aqua, 2px 1px aqua;
+color: rgb(247, 111, 138);
+text-shadow: 2px 1px rgb(204, 90, 134), 2px 1px rgb(204, 90, 134);
 text-align: center;
 text-decoration-line: underline;
 font-family: cursive;
